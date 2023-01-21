@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/FragmentNavigatsion/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.125" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/FragmentNavigatsion/app/src/main/res/layout/activity_main.xml" value="0.13" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/FragmentNavigatsion/app/src/main/res/layout/fragment_camera.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/FragmentNavigatsion/app/src/main/res/layout/fragment_detaile.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/FragmentNavigatsion/app/src/main/res/layout/fragment_home.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/FragmentNavigatsion/app/src/main/res/layout/fragment_reating.xml" value="0.18888888888888888" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/FragmentNavigatsion/app/src/main/res/layout/fragment_search.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/FragmentNavigatsion/app/src/main/res/layout/fragment_setting.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/FragmentNavigatsion/app/src/main/res/layout/item_image.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/FragmentNavigatsion/app/src/main/res/layout/item_pexels.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/FragmentNavigatsion/app/src/main/res/layout/item_users.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/FragmentNavigatsion/app/src/main/res/layout/item_video.xml" value="0.1921875" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/FragmentNavigatsion/app/src/main/res/menu/bottom_menu.xml" value="0.1576923076923077" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/FragmentNavigatsion/app/src/main/res/menu/drawer_menu.xml" value="0.1921875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
